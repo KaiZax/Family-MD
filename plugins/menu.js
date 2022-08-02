@@ -19,7 +19,7 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:
+├ Github: https://github.com/KaiZax
 ├ %github
 └────
 %readmore`.trim(),
