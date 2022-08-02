@@ -12,7 +12,7 @@ https://github.com/FokusDotId/Family-MD.git
 
 pliss follow dan kasih ✨⭐⭐🌟 ya pak!
 
-My Github: https://github.com/FokusDotId
+My Github: https://github.com/KaiZax
 
 `
      conn.reply(m.chat, txt, m)
